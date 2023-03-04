@@ -9,3 +9,4 @@ urlpatterns = [
     path('quests/', quests, name="quests"),
 ]
 asdas
+asdasxczvxzcv
